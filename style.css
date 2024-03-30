@@ -1,0 +1,23 @@
+
+body{
+    background-color:rgb(126, 117, 117);
+    color: rgb(13, 14, 15);
+}
+#wrapper{
+   
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+}
+.form{
+ padding: 10px;
+ 
+}
+#subt{
+    border-radius: 10px;
+}
+h1{
+
+}
+
